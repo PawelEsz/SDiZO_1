@@ -1,0 +1,10 @@
+﻿  Projekt_1.cpp
+d:\studia\iv semestr\sdizo\projekt\projekt_1\projekt_1\projekt_1.cpp(149): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\studia\iv semestr\sdizo\projekt\projekt_1\projekt_1\projekt_1.cpp(544): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\studia\iv semestr\sdizo\projekt\projekt_1\projekt_1\projekt_1.cpp(894): warning C4309: '=': truncation of constant value
+d:\studia\iv semestr\sdizo\projekt\projekt_1\projekt_1\projekt_1.cpp(895): warning C4309: '=': truncation of constant value
+d:\studia\iv semestr\sdizo\projekt\projekt_1\projekt_1\projekt_1.cpp(896): warning C4309: '=': truncation of constant value
+d:\studia\iv semestr\sdizo\projekt\projekt_1\projekt_1\projekt_1.cpp(918): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\studia\iv semestr\sdizo\projekt\projekt_1\projekt_1\projekt_1.cpp(921): warning C4101: 'index': unreferenced local variable
+  Projekt_1.vcxproj -> D:\STUDIA\IV semestr\SDiZO\Projekt\Projekt_1\Debug\Projekt_1.exe
+  Projekt_1.vcxproj -> D:\STUDIA\IV semestr\SDiZO\Projekt\Projekt_1\Debug\Projekt_1.pdb (Full PDB)
